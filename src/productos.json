@@ -1,0 +1,18 @@
+[{"id":"8ac0ce4b-bd2a-42bc-b9e4-78986fe56c55",
+"title":"Queso crema de Castañas",
+"description":"Para toda la familia",
+"price":"2.99","thumbnail":"no picture",
+"code":"Lacteos naturales-02",
+"status":"Disponible",
+"category":"Alimentos",
+"stock":101},
+
+{"id":"7b106efc-8ebb-432d-8bd1-4b123b03d46c",
+"title":"Guitarra electica",
+"description":"Convertite en el nuevo referente de la musica",
+"price":"2.99",
+"thumbnail":"no picture",
+"code":"producto electronico-02",
+"status":"Disponible",
+"category":"Instrumentos musicales",
+"stock":101}]
